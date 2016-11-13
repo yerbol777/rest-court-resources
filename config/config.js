@@ -2,9 +2,9 @@ module.exports = {
 
     //mysql database credentials
     database: {
-        host: '95.59.26.76',
+        host: 'localhost',
         user: 'root',
-        password: '434',
+        password: '',
         database: 'tsadb_resources2',
         multipleStatements: true
     },
